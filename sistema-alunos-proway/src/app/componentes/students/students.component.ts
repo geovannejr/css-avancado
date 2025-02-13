@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component,Input } from '@angular/core';
 
 @Component({
   selector: 'app-students',
@@ -8,4 +8,10 @@ import { Component } from '@angular/core';
 })
 export class StudentsComponent {
 
+@Input[]
+aluno:any=[];
+
+
+
+   
 }

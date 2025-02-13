@@ -1,0 +1,15 @@
+.card{
+    border:solid  1px red;
+    width:230px;
+    padding: 12px;
+    margin:0 8px;
+
+}
+
+.card h3 {
+    text-align: center;
+}
+.card{
+    width:100%;
+}
+
